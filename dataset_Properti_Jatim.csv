@@ -1,0 +1,199 @@
+No,ID_Properti,Nama_Agen,Provinsi,Kota,Tipe_Properti,Luas_Tanah,Luas_Bangunan,Jumlah_Kamar_Tidur,Jumlah_Kamar_Mandi,Jumlah_Lantai,Tahun_Dibangun,Sertifikat,Kondisi,Jarak_ke_Pusat_Kota_km,Fasilitas,Tanggal_Listing,Harga_per_m2_Tanah,Harga_Jual
+1,PRP-052,Eko Properti,Jawa Timur,Gresik,Rumah,86.0,52.0,2,2,2,2006,Girik,Baru,9.4,"Taman, Water Heater, Mushola",21/09/2026,7837000.0,Rp 674.000.000
+2,PRP-039,Rina Land,Jawa Timur,Kota Malang,,168.0,86.0,3,1,1,2000,SHM,Baik,5.1,"Keamanan 24 Jam, AC",2026-05-15,8631000.0,1450000000.0
+3,PRP-182,Sari Realty,Jawa Timur,batu,Rumah,171.0,141.0,4,2,1,2001,SHM,Baru,2.0,"Taman, AC",2026-04-14,11088000.0,1896000000.0
+4,PRP-145,Rina Properti,Jawa Timur,  malang ,Rmh,124 meter,,3,2,2,2015,hgb,Perlu Renovasi,1.9,"AC, WATER HEATER, TAMAN, GARASI",20/09/2025,9944000.0,"1,23 M"
+5,PRP-065,Dewi Properti,Jawa Timur,Surabaya,Rumah,152m²,110.0,4,,1,1997,HGB,baik,10.6,Keamanan 24 Jam,1 Juni 2026,12283000.0,1867000000.0
+6,PRP-110,Dewi Land,Jawa Timur,Surabaya,Rmh,80.0,66.0,1,1,2,1997,HGB,Bagus,,"Kolam Renang, Garasi",20.05.25,13750000.0,1100000000.0
+7,PRP-115,Dewi Properti,Jawa Timur,Batu,Rumah,87.0,60.0,empat,1,1,2025,shm,  Baik ,7.5,Kolam Renang,13.04.25,9161000.0,"0,80 M"
+8,PRP-181,Andi Realty,Jawa Timur,Gresik,Ruko,134.0,108.0,3,1,2,2012,HGB,Baik,1.9,"Kolam Renang, Water Heater",2025-04-01,9784000.0,1311 jt
+9,PRP-075,Sari Land,Jawa Timur,Mojokerto,  Townhouse ,87 meter,59m²,1,1,2,2025,Hak Guna Bangunan,Baik,6.1,"AC, Taman, Mushola, Carport",01/06/2026,6000000.0,522000000.0
+10,PRP-072,Andi Land,Jawa Timur,Malang,townhouse,274.0,251.0,7,6,2,2019,HGB,Baik,5.8,mushola dan taman dan garasi,2026-06-28,12325000.0,3377000000.0
+11,PRP-093,  Sari Properti ,Jawa Timur,Surabaya,Rumah,79.0,60.0,3,1,2,2014,SHM,Butuh Renovasi,2.2,"Water Heater, Kolam Renang",2025-12-02,12835000.0,1014000000.0
+12,PRP-114,Dewi Properti,Jawa Timur,Malang,Rumah,192 meter,167.0,5,5,2,2019,SHM,Baik,7.3,Water Heater,25/02/2025,9885000.0,1898000000.0
+13,PRP-183,Sari Realty,Jawa Timur,gresik,ruko,133.0,74.0,2,1,2,2007,,Perlu Renovasi,11.8,Carport,24/08/2026,6421000.0,854000000.0
+14,PRP-096,Budi Realty,Jawa Timur,Mojokerto,Townhouse,129.0,66.0,2,2,2,2021,SHM,Baik,4.1,Garasi,22 Juni 2026,5953000.0,768000000.0
+15,PRP-113,Budi Realty,Jawa Timur,,rumah,104.0,114.0,4,3,0,2007,,Butuh Renovasi,3.9,"Keamanan 24 Jam, Kolam Renang, Mushola",2026-07-08,5481000.0,2200000000.0
+16,PRP-172,Andi Properti,Jawa Timur,batu,Rmh,78.0,69.0,,1,2,2015,SHM,Perlu Renovasi,7.4,Water Heater,15/01/2026,8590000.0,
+17,PRP-004,Eko Properti,Jawa Timur,Sidoarjo,Townhouse,-120,56.0,1,1,1,2022,HGB,Baru,7.2,"Kolam Renang, AC",06-07-2025,11967000.0,"1,09 M"
+18,PRP-041,Budi Properti,Jawa Timur,Surabaya,Rumah,87.0,53.0,1,1,2,2009,Sertifikat Hak Milik,baik,5.6,carport;taman;garasi;kolam renang,07/07/2026,15287000.0,1330000000.0
+19,PRP-026,Rina Land,Jawa Timur,Gresik,rumah,84.0,,2,,2,2019,hgb,Baik,13.0,Taman,2026-02-07,7643000.0,642000000.0
+20,PRP-015,Eko Land,Jawa Timur,Batu,Rumah,133m²,128.0,5,3,2,2002,HGB,perlu renovasi,9.9,Garasi,12-11-2025,7128000.0,948 jt
+21,PRP-122,Eko Properti,Jawa Timur,Surabaya,Rumah,84.0,68.0,2,1,1,2002,SHM,,14.0,AC,09/02/2025,11405000.0,"0,96 M"
+22,PRP-013,Dewi Land,Jawa Timur,Surabaya,Townhouse,45.0,,3,2,1,2013,SHM,,1.5,"Mushola, Garasi",2025-04-24,19689000.0,886000000.0
+23,PRP-007,Eko Properti,Jawa Timur,Batu,,,,1,,2,2014,SHM,-,"8,7 km",keamanan 24 jam / kolam renang / garasi / taman,04-02-2025,9118000.0,465000000.0
+24,PRP-142,Sari Realty,Jawa Timur,Malang,Ruko,37.0,34.0,1,1,2,1999,,BARU,"1,5 km","AC, Kolam Renang, Keamanan 24 Jam",11-17-2025,10757000.0,398000000.0
+25,PRP-035,Dewi Realty,Jawa Timur,Batu,Rmh,317.0,,,5,1,1999,SHM,Baik,1.5,"Taman, Carport",2025-06-13,9334000.0,2959000000.0
+26,PRP-163,Eko Land,Jawa Timur,Batu,,155.0,8200,5,99,1,2002,hgb,Baik,7.7,"Keamanan 24 Jam, Water Heater, Mushola, Kolam Renang",2026-08-13,9929000.0,1539000000.0
+27,PRP-048,Sari Realty,Jawa Timur,Sidoarjo,Townhouse,107.0,,3,1,2,2012,shm,Baru,7.1,"Kolam Renang, Keamanan 24 Jam",04-13-2026,12280000.0,1314000000.0
+28,PRP-103,Eko Realty,Jawa Timur,Sidoarjo,Rumah,93.0,58.0,1,1,1,2015,HGB,BARU,8.3,keamanan 24 jam dan carport,18/07/2025,9151000.0,851000000.0
+29,PRP-090,Andi Realty,Jawa Timur,Mojokerto,Ruko,83.0,53.0,2,1,1,1999,HGB,BARU,4.2,"mushola,carport,water heater",2026-05-07,7795000.0,647000000.0
+30,PRP-042,Dewi Land,Jawa Timur,MLG,Ruko,74.0,52.0,1,1,1,2001,hgb,Perlu Renovasi,2.0,"Keamanan 24 Jam, Carport",2026-08-07,9081000.0,672000000.0
+31,PRP-047,Dewi Properti,Jawa Timur,Surabaya,Rumah,180.0,190.0,5,5,3,2012,Girik,  Baik ,14.4,"AC, Mushola, Garasi",09/02/2025,12011000.0,2162000000.0
+32,PRP-178,Sari Realty,Jawa Timur,MLG,Rmh,116 m2,59.0,1,1,1,2016,SHM,Perlu Renovasi,"8,4 km",,12/02/2025,7578000.0,879000000.0
+33,PRP-169,Budi Land,Jawa Timur,malang,Rumah,99.0,81.0,2,99,3,2021,,Perlu Renovasi,1.0,"Garasi, Water Heater, Carport, Keamanan 24 Jam",2026-01-06,9616000.0,952000000.0
+34,PRP-160,Rina Land,Jawa Timur,Malang,Rumah,66.0,35.0,1,1,2,2016,SHM,Baik,"3,0 km","AC, CARPORT, MUSHOLA",2026-05-20,9409000.0,621000000.0
+35,PRP-126,Budi Properti,Jawa Timur,Gresik,Townhouse,36.0,39.0,1,1,2,2010,,baik,3.0,Mushola,16/05/2025,8972000.0,Rp 323.000.000
+36,PRP-005,  Rina Realty ,Jawa Timur,sidoarjo,Rumah,143 meter,95.0,1,-2,2,1999,SHM,Baik,5.2,tidak ada info,06-23-2025,8853000.0,1266 jt
+37,PRP-157,Budi Land,Jawa Timur,Malang,Rumah,121.0,109.0,3,3,2,2023,SHM,baru,16.8,Keamanan 24 Jam,2026-08-30,12099000.0,1464000000.0
+38,PRP-177,  Andi Realty ,Jawa Timur,Surabaya,Rumah,114m²,85.0,2,1,2,2007,HGB,baru,7.4,"Water Heater, Mushola, Taman, Carport",29/08/2025,18298000.0,2086 jt
+39,PRP-087,Sari Land,Jawa Timur,Malang,Rumah,73m²,51.0,2,1,1,,HGB,  Bagus ,9.2,,4 Juni 2025,9603000.0,"0,70 M"
+40,PRP-152,Dewi Properti,Jawa Timur,batu,rumah,177m²,175.0,6,5,3,2024,SHM,Perlu Renovasi,,Keamanan 24 Jam,2025-06-13,9610000.0,1701000000.0
+41,PRP-113,Budi Realty,Jawa Timur,,rumah,104.0,114.0,4,3,0,2007,,Butuh Renovasi,3.9,"Keamanan 24 Jam, Kolam Renang, Mushola",2026-07-08,5481000.0,"0,57 M"
+42,PRP-154,Sari Properti,Jawa Timur,Kota Batu,  Rumah ,95 m2,93.0,2,1,2,2017,SHM,,14.8,"Carport, Mushola, Kolam Renang",2025-01-27,11453000.0,1088000000.0
+43,PRP-016,Sari Land,Jawa Timur,Mjk,Rmh,167.0,113.0,3,1,1,2011,SHM,Baik,19.5,"AC, Water Heater, Carport",29 Juli 2026,5808000.0,970000000.0
+44,PRP-174,Eko Properti,Jawa Timur,Kota Batu,town house,56.0,60 m2,2,1,2,2001,shm,Baik,9.0,,2026-03-17,9982000.0,559000000.0
+45,PRP-127,Rina Realty,Jawa Timur,MLG,Townhouse,107.0,105.0,2,2,1,2011,SHM,Baik,13.0,keamanan 24 jam dan kolam renang dan mushola dan carport,2025-03-19,11364000.0,1216000000.0
+46,PRP-144,Budi Realty,Jawa Timur,Surabaya,rumah,55.0,53m²,,1,2,2011,SHM,Baru,11.2,garasi / mushola,2026-01-16,18982000.0,1044000000.0
+47,PRP-059,Budi Properti,Jawa Timur,Surabaya,RUMAH,132m²,96.0,3,1,1,2005,SHM,Baru,3.7,"Mushola, Kolam Renang",2026-03-04,18068000.0,2385000000.0
+48,PRP-024,Budi Realty,Jawa Timur,Surabaya,Rumah,78.0,,2,1,3,,Girik,baik,2.2,"Water Heater, Keamanan 24 Jam, Kolam Renang",2026-08-25,11808000.0,
+49,PRP-161,Budi Land,Jawa Timur,mojokerto,Rumah,64.0,68 m2,3,1,2,2004,SHM,Baik,1.4,Carport,2025-01-22,7406000.0,Rp 474.000.000
+50,PRP-032,Rina Properti,Jawa Timur,Surabaya,Townhouse,48000,217.0,7,6,1,2010,SHM,Baru,"5,3 km","CARPORT, KOLAM RENANG, KEAMANAN 24 JAM, AC",2025-05-03,18382000.0,Rp 3.658.000.000
+51,PRP-102,Eko Realty,Jawa Timur,Sidoarjo,Rumah Toko,114.0,59.0,2,2,1,2021,SHM,Baik,5.7,"Mushola, Carport, Taman",2026-04-01,11711000.0,1335000000.0
+52,PRP-129,Dewi Land,Jawa Timur,mojokerto,Rumah,115m²,65.0,2,1,1,2021,girik,Baru,10.9,"Keamanan 24 Jam, AC, Carport",kemarin,5878000.0,676000000.0
+53,PRP-068,Sari Realty,Jawa Timur,Mojokerto,Rumah,239.0,232.0,7,6,2,2016,S.H.M,,5.3,,2026-05-06,8142000.0,1946000000.0
+54,PRP-137,Rina Realty,Jawa Timur,Mjk,Rumah,127.0,96.0,4,2,2,2021,SHM,Baru,6.4,"Mushola, Carport",22/11/2025,7102000.0,902000000.0
+55,PRP-018,Sari Land,Jawa Timur,Surabaya,Rmh,197.0,171.0,4,2,1,2012,SHM,Perlu Renovasi,4.1,"MUSHOLA, AC, CARPORT",2026-05-21,10629000.0,
+56,PRP-031,Eko Realty,Jawa Timur,surabaya,Townhouse,59.0,59.0,3,2,2,2004,HGB,baik,"4,7 km","Mushola, Garasi, Carport, Taman",23/04/2025,16288000.0,961000000.0
+57,PRP-141,Eko Properti,Jawa Timur,Malang,Rumah,196.0,114.0,3,2,1,2018,SHM,  Baru ,4.0,"Water Heater, Carport",21/08/2026,11036000.0,"2,16 M"
+58,PRP-078,Andi Realty,Jawa Timur,Surabya,Rumah,93.0,91.0,2,1,1,2002,HGB,-,14.0,"Water Heater, AC, Carport",2025-07-08,17323000.0,950
+59,PRP-138,Budi Properti,Jawa Timur,Surabaya,townhouse,70.0,63.0,1,1,2,2011,SHM,Baik,8.2,Garasi,2025-01-15,19014000.0,1331000000.0
+60,PRP-073,Andi Properti,Jawa Timur,GRESIK,Townhouse,186 m2,123.0,5,3,1,1997,SHM,Baik,,"Mushola, Water Heater, Kolam Renang",2025-11-25,9435000.0,35000000000
+61,PRP-071,Eko Realty,Jawa Timur,Gresik,Townhouse,148.0,132 m2,4,2,1,1999,girik,Baru,2.4,Garasi,1 Oktober 2025,7899000.0,1169000000.0
+62,PRP-109,Rina Properti,Jawa Timur,Sidoarjo,Rumah,,58.0,2,1,1,,Girik,Bagus,,"Carport, Keamanan 24 Jam",2026-01-15,6895000.0,"0,52 M"
+63,PRP-043,Dewi Realty,Jawa Timur,SBY,Rumah,49.0,39.0,1,1,2,1997,SHM,Baik,1.2,"AC, Kolam Renang",2025-06-03,15510000.0,760000000.0
+64,PRP-062,Budi Land,Jawa Timur,  SBY ,Rumah,114.0,105.0,3,3,2,2014,SHM,Baik,4.3,Mushola,2026-04-25,14991000.0,1709000000.0
+65,prp 143,Budi Properti,Jawa Timur,Surabaya,Rumah,174.0,91.0,3,1,3,,Letter C,  Baik ,4.9,Taman,2026-03-29,13431000.0,2337000000.0
+66,PRP-106,Dewi Land,Jawa Timur,surabaya,Rumah,42.0,32.0,1,1,1,1996,hgb,Baik,7.7,tidak ada info,17 Januari 2025,13833000.0,581000000.0
+67,PRP-014,Rina Properti,Jawa Timur,Sidoarjo,,116.0,75.0,3,3,1,2035,SHM,Perlu Renovasi,3.8,mushola;kolam renang,2025-09-15,7026000.0,"0,81 M"
+68,PRP-084,Eko Properti,Jawa Timur,Sidoarjo,Rumah,65.0,52.0,1,1,1,2008,HGB,Baik,8.2,"Carport, Keamanan 24 Jam, Garasi, Kolam Renang",2025-04-21,8169000.0,531000000.0
+69,PRP-074,Dewi Realty,Jawa Timur,Sidoarjo,Rumah,263.0,250.0,7,5,2,2009,SHM,Baik,6.0,"AC, Taman, Mushola",30/02/2025,10487000.0,Rp 2.758.000.000
+70,PRP-006,Andi Land,Jawa Timur,Sidoarjo,Rumah,77.0,84.0,2,1,2,2016,Sertifikat Hak Milik,Baru,"1,8 km","Carport, Garasi, Mushola, Taman",01/11/2025,11312000.0,871 jt
+71,PRP-083,Eko Properti,Jawa Timur,Malang,Ruko,208.0,173.0,5,5,2,2003,SHM,Baik,8.8,"Taman, AC",2025-08-02,13019000.0,2708000000.0
+72,PRP-101,Dewi Realty,Jawa Timur,SBY,Rumah,150.0,156.0,4,3,3,1995,SHM,Baru,"6,5 km","Kolam Renang, Garasi, Carport, Keamanan 24 Jam",03/10/2026,18587000.0,2788000000.0
+73,PRP-180,Budi Land,Jawa Timur,Sidoarjo,RUMAH,25000,97.0,2,1,2,2025,belum ada data,Baik,8.1,,17/07/2025,8590000.0,902000000.0
+74,PRP-119,  Andi Properti ,Jawa Timur,Surabaya,Rmh,185.0,128 m2,35,2,1,2004,HGB,Baru,4.1,"AC, WATER HEATER, CARPORT, KEAMANAN 24 JAM",2026-09-01,13854000.0,2563000000.0
+75,PRP-162,Rina Land,Jawa Timur,Surabaya,  Rumah ,72.0,42.0,,1,2,2021,HGB,Baik,5.7,Carport,05-09-2025,13236000.0,953000000.0
+76,PRP-025,Budi Properti,Jawa Timur,SBY,Rumah,122.0,99.0,2,1,2,2009,HGB,renovasi,4.4,Taman,03-06-2025,11107000.0,1355000000.0
+77,PRP-079,Budi Properti,Jawa Timur,Surabaya,Ruko,50.0,27m²,1,1,2,1995,SHM,Baru,7.3,,03-21-2026,23320000.0,1166000000.0
+78,PRP-131,Eko Properti,Jawa Timur,Gresik,Townhouse,190.0,124 m2,4,2,1,2018,SHM,Baik,,"Keamanan 24 Jam, AC",2025-09-05,8463000.0,1608000000.0
+79,PRP-009,Eko Properti,Jawa Timur,Sda,Rumah,89.0,59m²,2,1,2,2007,HGB,Perlu Renovasi,6.1,"Water Heater, Mushola, Garasi, Taman",09/12/2025,7124000.0,634000000.0
+80,PRP-054,Budi Realty,Jawa Timur,Mojokerto,Rumah,99.0,58.0,2,,2,2009,SHM,,3.9,,2025-01-10,8889000.0,880000000.0
+81,PRP-028,Dewi Properti,Jawa Timur,Sidoarjo,Rumah,195.0,144.0,4,2,1,2016,SHM,Perlu Renovasi,9.9,"Garasi, Taman",2025-10-26,5949000.0,1160000000.0
+82,PRP-104,Dewi Realty,Jawa Timur,Mojokerto,Rumah,,28 m2,1,1,1,1998,SHM,Baik,10.1,AC,16.07.26,5957000.0,274000000.0
+83,PRP-116,Eko Land,Jawa Timur,malang,Ruko,99.0,68.0,2,1,2,2002,hgb,Perlu Renovasi,"8,8 km","Garasi, Water Heater, Taman",21/05/2026,9091000.0,900000000.0
+84,PRP-121,Andi Land,Jawa Timur,Surabaya,Rumah Toko,169.0,111.0,3,2,1,2015,SHM,BARU,8.8,"Carport, Taman, Keamanan 24 Jam",2025-03-20,20953000.0,3541000000.0
+85,PRP-044,  Andi Properti ,Jawa Timur,Sda,Rumah,76 m2,48 m2,1,,1,2008,HGB,Baik,4.3,"Carport, AC, Kolam Renang, Water Heater",9 April 2026,7895000.0,Rp 600.000.000
+86,PRP-058,Budi Realty,Jawa Timur,Batu,RUMAH,39.0,25.0,,1,2,2021,Girik,Baik,11.2,"Mushola, Water Heater, AC, Garasi",2026-06-24,7436000.0,290000000.0
+87,PRP-164,Dewi Realty,Jawa Timur,mojokerto,Rumah,181.0,130.0,5,4,3,2018,SHM,Perlu Renovasi,2.9,water heater / mushola / carport,2025-07-21,4818000.0,Rp 872.000.000
+88,PRP-023,Budi Properti,Jawa Timur,Sda,Townhouse,107.0,,2,1,1,2013,HGB,,8.7,"CARPORT, WATER HEATER",17/09/2025,10776000.0,1153000000.0
+89,PRP-179,Dewi Properti,Jawa Timur,Malang,Townhouse,123.0,93.0,2,1,1,0,SHM,Baru,2.8,"MUSHOLA, TAMAN",11/03/2026,13528000.0,1664000000.0
+90,PRP-165,Sari Land,Jawa Timur,gresik,Town House,49 m2,34.0,1,1,1,0,SHM,Baik,2.2,Garasi,19 Maret 2025,7837000.0,384 jt
+91,PRP-159,Sari Properti,Jawa Timur,,Rumah,,92.0,3,3,2,1997,Hak Guna Bangunan,Baik,5.0,"Taman, AC, Kolam Renang, Garasi",02/03/2026,11264000.0,
+92,PRP-088,Dewi Properti,Jawa Timur,Kota Batu,Rumah,133.0,131.0,4,4,3,1996,S.H.M,Perlu Renovasi,7.7,"Kolam Renang, AC, Carport, Keamanan 24 Jam",14.12.25,8647000.0,1150 jt
+93,PRP-133,Sari Realty,Jawa Timur,Sidoarjo,Rumah,146.0,77 m2,2,1,1,2022,S.H.M,Perlu Renovasi,4.7,"WATER HEATER, KOLAM RENANG",26 Mei 2026,6110000.0,Rp 892.000.000
+94,PRP-064,Andi Properti,Jawa Timur,Surabaya,Townhouse,154m²,112.0,4,2,2,2000,Hak Guna Bangunan,  Baik ,0.5,Mushola,26.01.25,13390000.0,2062 jt
+95,PRP-025,Budi Properti,Jawa Timur,SBY,Rumah,122.0,99.0,2,1,2,2009,HGB,renovasi,4.4,Taman,03-06-2025,11107000.0,1355000000.0
+96,PRP-146,Sari Properti,Jawa Timur,,Townhouse,155.0,97.0,2,,dua,2022,SHM,Baik,12.8,Taman,14/05/2025,9419000.0,Rp 1.460.000.000
+97,PRP-134,Budi Properti,Jawa Timur,,rumah,126.0,119.0,3,,2,2016,SHM,Baik,19.9,Mushola,01-08-2025,15119000.0,1905000000.0
+98,PRP-046,Andi Land,Jawa Timur,,ruko,198.0,202.0,7,6,1,,SHM,Baru,1.7,"Carport, Mushola, Garasi",2025-07-27,13783000.0,2729000000.0
+99,PRP-036,Eko Realty,Jawa Timur,Surabaya,Rumah,111.0,,,1,2,2022,SHM,-,3.6,"Garasi, Taman, Carport",06/11/2025,14541000.0,Rp 1.614.000.000
+100,PRP-066,Budi Realty,Jawa Timur,malang,Rumah,98.0,87 m2,3,2,2,2017,belum ada data,Baru,14.2,AC,2026-08-22,10153000.0,995000000.0
+101,PRP-051,Andi Land,Jawa Timur,Batu,Townhouse,,176.0,5,4,3,1996,S.H.M,Baru,5.3,Keamanan 24 Jam,2026-07-03,13256000.0,2174000000.0
+102,PRP-123,Sari Properti,Jawa Timur,Sidoarjo,Rumah,125.0,102.0,2,1,1,2023,,Baru,4.4,"GARASI, KEAMANAN 24 JAM, KOLAM RENANG, CARPORT",02-15-2026,10512000.0,"1,31 M"
+103,PRP-099,Eko Properti,Jawa Timur,SBY,rumah,150.0,123.0,4,3,1,2025,HGB,Baik,2.0,"Keamanan 24 Jam, Garasi, Carport",04/08/2025,14907000.0,2236000000.0
+104,PRP-017,Sari Land,Jawa Timur,gresik,Rmh,122.0,127.0,3,2,3,2013,HGB,Baik,-99,"KOLAM RENANG, AC, KEAMANAN 24 JAM",02-21-2026,8910000.0,Rp 1.087.000.000
+105,PRP-020,Rina Realty,Jawa Timur,Surabaya,Rumah,236.0,196.0,6,4,1,,HGB,Butuh Renovasi,8.0,"Taman, Water Heater",25/06/2025,11034000.0,2604000000.0
+106,PRP-125,Rina Land,Jawa Timur,Mojokerto,Rumah,146.0,131 m2,4,2,2,1996,Girik,Baru,,"Mushola, Taman, Garasi",21 April 2025,6925000.0,1011000000.0
+107,PRP-045,Sari Properti,Jawa Timur,Surabaya,Ruko,158m²,130.0,4,2,2,2001,HGB,Bagus,3.2,"Kolam Renang, Carport, Taman, Garasi",27.07.25,17690000.0,2795000000.0
+108,PRP-069,Budi Realty,Jawa Timur,mojokerto,Rumah,118.0,91 m2,0,4,2,2007,Hak Guna Bangunan,Baru,6.0,,11/10/2026,7975000.0,Rp 941.000.000
+109,PRP-077,Andi Land,Jawa Timur,Kota Batu,Rmh,333.0,284.0,7,5,1,2000,SHM,Baik,7.2,,2026-10-19,9955000.0,3315000000.0
+110,PRP-140,Dewi Properti,Jawa Timur,Kota Malang,Townhouse,71.0,15,1,,1,1998,SHM,Baik,480,"Kolam Renang, Keamanan 24 Jam, Water Heater",2026-06-14,9324000.0,
+111,PRP-011,Budi Properti,Jawa Timur,gresik,Rumah,126.0,88.0,3,1,2,2002,SHM,Baik,3.2,"Keamanan 24 Jam, Kolam Renang",14.01.25,7810000.0,984000000.0
+112,PRP-085,Eko Land,Jawa Timur,Sidoarjo,Townhouse,52.0,30.0,3,3,1,2008,belum ada data,Baru,14.4,Kolam Renang,13/02/2025,10942000.0,569000000.0
+113,PRP-012,Andi Properti,Jawa Timur,Malang,Townhouse,52 meter,32m²,1,1,1,2021,AJB,Baru,6.8,Water Heater,2025-05-18,10673000.0,555000000.0
+114,PRP-056,Eko Land,Jawa Timur,Surabaya,Rmh,252m²,203.0,7,6,1,2003,Sertifikat Hak Milik,Perlu Renovasi,1.5,Kolam Renang,2026-02-19,11750000.0,2961000000.0
+115,PRP-089,Dewi Properti,Jawa Timur,batu,Townhouse,0,115.0,3,3,2,2016,SHM,Baik,9.5,"Water Heater, AC",6 Mei 2025,9254000.0,1897000000.0
+116,PRP-175,Dewi Properti,Jawa Timur,mojokerto,Rumah,159 m2,137.0,3,2,2,2014,SHM,BARU,3.6,"Keamanan 24 Jam, Kolam Renang",2025-11-27,8686000.0,Rp 1.381.000.000
+117,PRP-112,Sari Realty,Jawa Timur,Surabaya,Ruko,97.0,69.0,2,1,2,2017,HGB,baru,"2,8 km","Carport, Taman",2025-04-08,18680000.0,Rp 1.812.000.000
+118,PRP-135,Andi Properti,Jawa Timur,  Gresik ,Ruko,239 m2,200.0,6,4,1,2017,HGB,Baik,9.0,"Garasi, Taman, Mushola",27/01/2025,8013000.0,1915000000.0
+119,PRP-010,Dewi Properti,Jawa Timur,GRESIK,Rumah,87.0,73.0,2,2,1,2018,Girik,Baik,13.5,"Water Heater, Keamanan 24 Jam",2026-05-19,5644000.0,1200000
+120,PRP-136,Rina Land,Jawa Timur,Surabaya,Rumah Toko,83.0,66.0,2,1,2,2021,HGB,,3.7,"AC, TAMAN",25.10.26,19157000.0,1590000000.0
+121,PRP-033,Dewi Land,Jawa Timur,batu,Ruko,144.0,,4,4,2,2022,,Baru,1.2,Carport,05/10/2025,14285000.0,"2,06 M"
+122,PRP-030,Andi Realty,Jawa Timur,Kab. Sidoarjo,Rumah,57.0,42.0,1,99,2,2014,SHM,Baru,2.2,garasi;kolam renang,20/08/2025,10105000.0,576000000.0
+123,PRP-040,Andi Realty,Jawa Timur,mojokerto,Rumah,58.0,53.0,1,1,2,1999,AJB,baik,6.9,"AC, Garasi, Keamanan 24 Jam",8 September 2025,5897000.0,342 jt
+124,PRP-171,  Budi Properti ,Jawa Timur,Surabaya,Townhouse,174.0,95.0,3,3,1,,SHM,renovasi,0.6,"Keamanan 24 Jam, Carport",2025-09-08,11793000.0,2052000000.0
+125,PRP-057,Budi Properti,Jawa Timur,Surabya,Rumah,162.0,88.0,2,1,3,2018,SHM,baik,13.1,"Taman, Garasi, Carport",20/06/2026,14228000.0,2305000000.0
+126,PRP-155,Sari Realty,Jawa Timur,Gresik,ruko,75.0,56.0,1,1,2,2010,,Baik,"3,9 km","GARASI, TAMAN, CARPORT, AC",1 April 2025,8693000.0,652 jt
+127,PRP-134,Budi Properti,Jawa Timur,,rumah,126.0,119.0,3,,2,2016,SHM,Baik,19.9,Mushola,01-08-2025,15119000.0,950000000.0
+128,PRP-147,Budi Realty,Jawa Timur,Surabaya,,105m²,83.0,2,1,2,1997,SHM,-,7.7,garasi / mushola / taman,30/01/2025,15467000.0,1624000000.0
+129,PRP-092,Dewi Properti,Jawa Timur,Surabaya,Rumah,168.0,127.0,3,2,1,2021,Sertifikat Hak Milik,Perlu Renovasi,11.7,Mushola,11/10/2026,9768000.0,1641000000.0
+130,PRP-060,Eko Properti,Jawa Timur,malang,Rumah,90.0,57.0,3,2,2,2014,SHM,Baik,4.6,,9 Mei 2025,9867000.0,888000000.0
+131,PRP-184,Andi Properti,Jawa Timur,Surabaya,rumah,102.0,59.0,2,1,1,2021,SHM,Baru,2.8,"Carport, Water Heater",10.05.26,19059000.0,1944000000.0
+132,PRP-037,Eko Realty,Jawa Timur,  Kota Batu ,ruko,116.0,107.0,3,1,2,,,baik,-99,garasi / keamanan 24 jam / mushola,20/07/2026,12957000.0,"1,50 M"
+133,PRP-176,Andi Land,Jawa Timur,Kab. Sidoarjo,RUMAH,123 meter,126.0,4,2,1,2015,Girik,Perlu Renovasi,10.8,"KEAMANAN 24 JAM, AC",2026-10-22,7650000.0,941000000.0
+134,PRP-053,Andi Realty,Jawa Timur,sidoarjo,Rumah,75m²,77 m2,2,2,1,2020,Girik,Baru,9.3,"Taman, AC, Water Heater, Mushola",11/11/2025,9013000.0,676000000.0
+135,PRP-043,Dewi Realty,Jawa Timur,SBY,Rumah,49.0,39.0,1,1,2,1997,SHM,Baik,1.2,"AC, Kolam Renang",2025-06-03,15510000.0,1850000000.0
+136,PRP-049,Rina Realty,Jawa Timur,Surabaya,Rumah,167.0,157.0,4,2,1,2020,HGB,Baru,"21,8 km","Kolam Renang, Carport, Taman",12 April 2025,15581000.0,2602000000.0
+137,PRP-097,  Dewi Properti ,Jawa Timur,  Batu ,Ruko,152.0,166.0,5,5,1,2014,,Baru,"11,2 km","KEAMANAN 24 JAM, AC, TAMAN",2026-10-03,14112000.0,2145000000.0
+138,PRP-076,Sari Land,Jawa Timur,GRESIK,Rumah,113 m2,104.0,3,1,1,1850,SHM,,0.7,"AC, Kolam Renang",02/01/2026,8487000.0,Rp 959.000.000
+139,PRP-156,Rina Properti,Jawa Timur,Kota Malang,Ruko,79.0,57.0,2,1,2,2002,HGB,Baru,13.4,"GARASI, WATER HEATER, TAMAN",12.02.25,14342000.0,1133000000.0
+140,PRP-081,Sari Properti,Jawa Timur,Batu,Rumah,83.0,55.0,3,2,2,2013,SHM,baru,3.6,"MUSHOLA, AC",21/08/2025,9000000.0,747000000.0
+141,PRP-100,Budi Land,Jawa Timur,,Townhouse,,103.0,,3,1,2010,SHM,Baik,4.4,"Water Heater, Kolam Renang, Keamanan 24 Jam, AC",2025-05-08,12183000.0,Rp 1.401.000.000
+142,PRP-125,Rina Land,Jawa Timur,Mojokerto,Rumah,146.0,131 m2,4,2,2,1996,Girik,Baru,,"Mushola, Taman, Garasi",21 April 2025,6925000.0,1011000000.0
+143,PRP-166,Rina Properti,Jawa Timur,Kota Batu,townhouse,85m²,54.0,1,1,1,1998,HGB,Butuh Renovasi,2.7,"Taman, Kolam Renang, Mushola, Garasi",2026-09-07,6482000.0,"0,55 M"
+144,PRP-118,Rina Realty,Jawa Timur,Surabaya,RUMAH,197.0,132.0,3,2,1,2024,SHM,Perlu Renovasi,1.4,"Water Heater, Carport, Garasi, Kolam Renang",05/12/2025,13259000.0,"2,61 M"
+145,PRP-086,Andi Realty,Jawa Timur,Sidoarjo,,133.0,112.0,3,2,1,2006,Sertifikat Hak Milik,Baru,8.7,,2026-01-14,11233000.0,
+146,PRP-002,Dewi Realty,Jawa Timur,  Malang ,Ruko,67.0,45.0,,1,2,2005,SHM,Perlu Renovasi,250,"KEAMANAN 24 JAM, CARPORT",2029-04-01,9313000.0,624000000.0
+147,PRP-114,Dewi Properti,Jawa Timur,Malang,Rumah,192 meter,167.0,5,5,2,2019,SHM,Baik,7.3,Water Heater,25/02/2025,9885000.0,1898000000.0
+148,PRP-163,Eko Land,Jawa Timur,Batu,,155.0,8200,5,99,1,2002,hgb,Baik,7.7,"Keamanan 24 Jam, Water Heater, Mushola, Kolam Renang",2026-08-13,9929000.0,1539000000.0
+149,PRP-117,Sari Realty,Jawa Timur,Surabya,Townhouse,98.0,95.0,3,1,2,2022,SHM,Baik,11.1,"AC, Kolam Renang, Mushola",15 Februari 2026,18429000.0,1806000000.0
+150,PRP-019,Rina Properti,Jawa Timur,Batu,Rumah,84.0,47.0,3,3,2,2023,SHM,Baru,6.4,Kolam Renang,22 Oktober 2026,10905000.0,"0,92 M"
+151,PRP-094,Budi Land,Jawa Timur,Kab. Sidoarjo,Rumah,123.0,97.0,3,2,1,2012,SHM,  Baru ,6.6,carport dan kolam renang dan mushola,02-02-2025,10683000.0,1300000000.0
+152,PRP-055,Eko Land,Jawa Timur,Sidoarjo,Rumah,168.0,132 m2,4,4,1,2002,Hak Guna Bangunan,Baru,,"Mushola, Carport, Kolam Renang",02-03-2026,8607000.0,1446 jt
+153,PRP-180,Budi Land,Jawa Timur,Sidoarjo,RUMAH,25000,97.0,2,1,2,2025,belum ada data,Baik,8.1,,17/07/2025,8590000.0,902000000.0
+154,PRP-029,Budi Realty,Jawa Timur,Surabaya,ruko,149.0,136.0,3,2,1,2022,Girik,Baik,2.8,"Kolam Renang, Carport, Mushola",20/02/2025,13852000.0,2064000000.0
+155,PRP-128,Rina Realty,Jawa Timur,GRESIK,Ruko,73.0,52.0,2,1,1,2001,SHM,Baik,1.6,Water Heater,2025-11-28,9260000.0,676000000.0
+156,PRP-024,Budi Realty,Jawa Timur,Surabaya,Rumah,78.0,,2,1,3,,Girik,baik,2.2,"Water Heater, Keamanan 24 Jam, Kolam Renang",2026-08-25,11808000.0,
+157,PRP-050,Rina Realty,Jawa Timur,Kab. Sidoarjo,Rumah,103 m2,105.0,3,,2,2020,SHM,Baik,4.4,keamanan 24 jam;taman;water heater,23 Juli 2025,11000000.0,1133000000.0
+158,PRP-095,Dewi Land,Jawa Timur,Surabya,Rumah,95.0,103.0,2,1,2,2010,SHM,Perlu Renovasi,5.1,"Mushola, Water Heater, Garasi",31 Agustus 2025,14168000.0,1346000000.0
+159,PRP-021,Sari Land,Jawa Timur,Sidoarjo,Ruko,228 m2,134.0,4,2,1,1999,S.H.M,,1.4,keamanan 24 jam / garasi / taman,08-23-2025,13276000.0,"3,03 M"
+160,PRP-038,Eko Properti,Jawa Timur,Sidoarjo,town house,72.0,71 m2,1,1,1,2025,SHM,Baik,,"Kolam Renang, Garasi, AC, Mushola",24/08/2026,10694000.0,770000000.0
+161,PRP-080,Rina Realty,Jawa Timur,Sidoarjo,  Rumah ,215.0,166.0,dua,2,2,2025,SHM,Baru,7.3,"Carport, Water Heater, Keamanan 24 Jam, Kolam Renang",2025-08-24,10065000.0,Rp 2.164.000.000
+162,PRP-124,Rina Land,Jawa Timur,Surabaya,Rmh,127.0,75.0,2,2,1,2011,SHM,Baru,2.2,,2026-04-20,14693000.0,1866000000.0
+163,PRP-034,Budi Properti,Jawa Timur,Surabya,Rumah,208.0,182 m2,5,3,1,1999,SHM,Baru,2.5,"AC, Taman",2026-01-18,17673000.0,3676000000.0
+164,PRP-008,Sari Land,Jawa Timur,Surabaya,Townhouse,103 m2,74m²,3,3,1,,HGB,Perlu Renovasi,5.1,Keamanan 24 Jam,22/08/2026,9058000.0,933000000.0
+165,PRP-063,Eko Properti,Jawa Timur,gresik,Townhouse,104 m2,75.0,1,1,1,1999,HGB,BARU,10.4,,01/02/2026,7971000.0,"1,2 T"
+166,prp 161,Budi Land,Jawa Timur,mojokerto,Rumah,64.0,68 m2,3,1,2,2004,SHM,Baik,1.4,Carport,2025-01-22,7406000.0,Rp 474.000.000
+167,prp 059,Budi Properti,Jawa Timur,Surabaya,RUMAH,132m²,96.0,3,1,1,2005,SHM,Baru,3.7,"Mushola, Kolam Renang",2026-03-04,18068000.0,2385000000.0
+168,PRP-158,Eko Land,Jawa Timur,Sidoarjo,Townhouse,179.0,139.0,5,3,1,2009,shm,Baik,3.4,,2025-04-13,10240000.0,Rp 1.833.000.000
+169,PRP-098,Budi Properti,Jawa Timur,sidoarjo,  Rumah ,96.0,71.0,1,,3,1998,HGB,perlu renovasi,"3,3 km","Carport, Taman, Kolam Renang, Keamanan 24 Jam",2026-07-10,8458000.0,"0,81 M"
+170,PRP-111,Dewi Realty,Jawa Timur,Mojokerto,Rumah,152 meter,102.0,3,2,1,2102,Hak Guna Bangunan,Baru,,"Garasi, Kolam Renang, Water Heater, Keamanan 24 Jam",2026-07-02,6454000.0,Rp 981.000.000
+171,PRP-105,Dewi Land,Jawa Timur,Kab. Sidoarjo,Rumah,58.0,57.0,2,2,2,2015,HGB,Baik,2.6,"Mushola, Kolam Renang, Keamanan 24 Jam",23.03.25,9138000.0,530000000.0
+172,PRP-070,Rina Properti,Jawa Timur,Gresik,Rumah,61.0,47m²,1,1,2,1997,hgb,Baik,4.2,"ac,keamanan 24 jam",2026-01-06,7213000.0,440000000.0
+173,PRP-091,Andi Realty,Jawa Timur,Gresik,Rumah,,114.0,4,4,1,,shm,Baru,4.6,"MUSHOLA, CARPORT",2025-09-08,8156000.0,Rp 1.305.000.000
+174,PRP-130,Sari Properti,Jawa Timur,Surabaya,Rumah,115 meter,114.0,4,3,9,2018,SHM,baik,"11,0 km","water heater,ac",05-14-2026,13609000.0,1565000000.0
+175,PRP-061,Sari Properti,Jawa Timur,Kota Batu,Rumah,89 m2,45.0,1,14,3,2020,SHM,Bagus,"18,1 km","AC, Water Heater, Keamanan 24 Jam",2025-08-10,10124000.0,901000000.0
+176,PRP-003,Budi Land,Jawa Timur,Surabya,Rumah,86 m2,82.0,1,1,1,2013,Girik,Perlu Renovasi,15.0,Keamanan 24 Jam,21 Februari 2026,9244000.0,795000000.0
+177,PRP-067,Andi Properti,Jawa Timur,Sda,Rumah,86.0,75.0,3,1,1,2019,Sertifikat Hak Milik,Perlu Renovasi,1.0,"Taman, Kolam Renang",2025-06-09,7616000.0,655000000.0
+178,PRP-151,Dewi Land,Jawa Timur,SBY,rumah,77.0,56.0,2,2,1,,,Perlu Renovasi,"9,2 km","Keamanan 24 Jam, Water Heater, AC",2025-10-01,10000000.0,770000000.0
+179,PRP-082,Eko Properti,Jawa Timur,Malang,rumah,266.0,185.0,5,3,2,1997,SHM,Perlu Renovasi,3.7,"CARPORT, AC, MUSHOLA",2026-07-18,9977000.0,2654 jt
+180,PRP-027,Eko Properti,Jawa Timur,Surabaya,Townhouse,132.0,99.0,2,1,2,2021,HGB,Baik,4.5,"Garasi, Water Heater, Kolam Renang",22/04/2025,13765000.0,1817000000.0
+181,PRP-143,Budi Properti,Jawa Timur,Surabaya,Rumah,174.0,91.0,3,1,3,,Letter C,  Baik ,4.9,Taman,2026-03-29,13431000.0,2337000000.0
+182,PRP-168,Dewi Properti,Jawa Timur,Kota Malang,Rumah,85.0,84.0,3,2,1,2021,SHM,Baru,5.2,"Garasi, Water Heater, Keamanan 24 Jam",23/10/2026,13835000.0,1176000000.0
+183,PRP-094,Budi Land,Jawa Timur,Kab. Sidoarjo,Rumah,123.0,97.0,3,2,1,2012,SHM,  Baru ,6.6,carport dan kolam renang dan mushola,02-02-2025,10683000.0,1314000000.0
+184,PRP-173,Andi Properti,Jawa Timur,Surabaya,Rumah,113.0,111.0,3,3,2,2012,Sertifikat Hak Milik,Baik,,"Water Heater, Mushola, AC, Taman",24.01.26,13416000.0,1516 jt
+185,PRP-149,Andi Land,Jawa Timur,Kota Batu,rumah,45.0,37.0,,1,2,2015,hgb,Baik,5.7,Water Heater,03/10/2026,9689000.0,Rp 436.000.000
+186,PRP-167,Andi Realty,Jawa Timur,Sidoarjo,Rumah,,58.0,2,1,2,2023,SHM,baik,8.3,"Kolam Renang, AC, Carport",2026-05-02,10051000.0,593000000.0
+187,PRP-120,Eko Realty,Jawa Timur,  Malang ,Rumah,110.0,104.0,2,1,3,2022,SHM,Bagus,"6,8 km",Carport,09.03.25,10000000.0,"1,10 M"
+188,PRP-150,Budi Land,Jawa Timur,,Rmh,79.0,48.0,1,1,2,2005,SHM,baik,"6,4 km","Mushola, Garasi",2026-06-18,6987000.0,552000000.0
+189,PRP-139,Budi Realty,Jawa Timur,Batu,  Rumah ,228.0,4500,3,1,2,2013,belum ada data,Baru,-99,"Water Heater, Carport, Kolam Renang, Keamanan 24 Jam",2026-06-29,11395000.0,2598000000.0
+190,PRP-170,Rina Properti,Jawa Timur,Sidoarjo,Rumah,190 m2,169.0,5,3,2,2005,SHM,Baik,"5,0 km","Water Heater, Kolam Renang, Taman, AC",2026-09-16,11047000.0,2099000000.0
+191,PRP-108,Sari Land,Jawa Timur,Kab. Sidoarjo,Rumah,133 meter,78.0,2,1,1,2021,SHM,Baik,,"AC, Kolam Renang",05.10.26,7594000.0,1010000000.0
+192,PRP-148,Andi Land,Jawa Timur,batu,Townhouse,70m²,66.0,tiga,,2,,Sertifikat Hak Milik,,7.7,tidak ada info,24.03.25,14843000.0,"1,04 M"
+193,PRP-022,Budi Properti,Jawa Timur,Sda,RUMAH,124.0,92.0,2,1,1,,SHM,Perlu Renovasi,6.5,"AC, Kolam Renang",03/05/2026,7000000.0,868000000.0
+194,PRP-001,Eko Realty,Jawa Timur,gresik,Rumah,111.0,96.0,4,3,2,2014,S.H.M,Baru,6.9,taman dan carport dan keamanan 24 jam,28/09/2026,10973000.0,1218000000.0
+195,PRP-185,Sari Properti,Jawa Timur,  Mojokerto ,  Rumah ,96.0,86.0,3,3,satu,2016,,Bagus,1.5,"AC, KOLAM RENANG, CARPORT, TAMAN",23 April 2025,7542000.0,724000000.0
+196,PRP-132,Eko Land,Jawa Timur,batu,rumah,146.0,107.0,2,1,2,2003,SHM,Baik,8.2,"Taman, AC, Water Heater, Kolam Renang",2025-11-02,9747000.0,1423000000.0
+197,PRP-153,Sari Land,Jawa Timur,Sidoarjo,Rumah,87.0,66.0,2,2,2,2008,shm,Baru,6.0,Water Heater,2026-07-06,10552000.0,Rp 918.000.000
+198,PRP-107,  Dewi Properti ,Jawa Timur,Sidoarjo,Rumah,383.0,264.0,7,5,1,,HGB,baru,,"Keamanan 24 Jam, Water Heater",2025-03-08,9003000.0,"3,45 M"

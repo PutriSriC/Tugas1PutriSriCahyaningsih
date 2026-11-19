@@ -1,0 +1,68 @@
+DESKRIPSI KASUS - DATA PREPROCESSING
+
+Pembuat kasus : Risma Fani Dwi Natasya (Sistem Informasi, UISI)
+File dataset : dataset_Properti_Jatim.csv
+
+LATAR BELAKANG
+
+Sebuah perusahaan konsultan properti di Jawa Timur ingin melakukan evaluasi terhadap perkembangan pasar properti di berbagai wilayah untuk membantu calon pembeli dalam menentukan pilihan properti yang sesuai dengan kebutuhan dan kemampuan finansial mereka. Perusahaan mengumpulkan data dari berbagai listing properti yang mencakup informasi lokasi, jenis properti, luas tanah, luas bangunan, jumlah kamar, kondisi bangunan, fasilitas, hingga harga jual.
+
+Dalam proses pengumpulan data, perusahaan menemukan bahwa informasi properti yang diterima belum sepenuhnya terorganisasi dengan baik. Beberapa properti memiliki informasi yang tidak lengkap, terdapat perbedaan penulisan pada kategori properti dan lokasi, serta ditemukan nilai yang perlu diperiksa kembali kewajarannya. Kondisi tersebut dapat memengaruhi hasil analisis harga dan karakteristik properti di setiap wilayah.
+
+Oleh karena itu, perusahaan perlu melakukan data preprocessing untuk memperbaiki kualitas data sebelum digunakan dalam analisis pasar properti. Hasil pengolahan data diharapkan dapat membantu perusahaan memperoleh informasi yang lebih akurat mengenai karakteristik dan harga properti di Jawa Timur.
+
+TUJUAN
+
+Menyiapkan data properti di Jawa Timur agar memiliki kualitas yang baik sehingga dapat digunakan untuk menganalisis karakteristik properti, membandingkan harga berdasarkan lokasi dan tipe properti, serta memperoleh informasi yang mendukung proses pengambilan keputusan calon pembeli.
+
+DESKRIPSI VARIABEL
+
+1.  No (numerik/identitas) nomor urut data properti.
+
+2.  ID_Properti (kategorik/identitas) kode identitas properti.
+
+3.  Nama_Agen (kategorik) nama agen yang menawarkan properti.
+
+4.  Provinsi (kategorik) provinsi lokasi properti.
+
+5.  Kota (kategorik) kota lokasi properti.
+
+6.  Tipe_Properti (kategorik) jenis properti yang ditawarkan.
+
+7.  Luas_Tanah (numerik) luas tanah dalam meter persegi.
+
+8.  Luas_Bangunan (numerik) luas bangunan dalam meter persegi.
+
+9.  Jumlah_Kamar_Tidur (numerik) jumlah kamar tidur.
+
+10. Jumlah_Kamar_Mandi (numerik) jumlah kamar mandi.
+
+11. Jumlah_Lantai (numerik) jumlah lantai bangunan.
+
+12. Tahun_Dibangun (numerik) tahun pembangunan properti.
+
+13. Sertifikat (kategorik) jenis sertifikat kepemilikan properti.
+
+14. Kondisi (kategorik/ordinal) kondisi bangunan properti.
+
+15. Jarak_ke_Pusat_Kota_km (numerik) jarak properti ke pusat kota dalam kilometer.
+
+16. Fasilitas (kategorik/teks) fasilitas yang tersedia pada properti.
+
+17. Tanggal_Listing (tanggal) tanggal properti dipublikasikan atau didaftarkan.
+
+18. Harga_per_m2_Tanah (numerik) harga tanah per meter persegi.
+
+19. Harga_Jual (numerik) harga jual properti.
+
+UKURAN DATA
+
+198 baris dan 19 variabel.
+
+INSTRUKSI UNTUK PENGERJA
+
+Lakukan data preprocessing secara lengkap mulai dari identifikasi permasalahan data, penanganan masalah, hingga transformasi data. Jelaskan setiap tahapan yang dilakukan menggunakan format input - proses - output.
+
+Perhatikan berbagai permasalahan yang mungkin ditemukan dalam dataset, seperti missing value pada variabel kategorik dan numerik, inkonsistensi penulisan data, kesalahan format tipe data, data duplikat, nilai yang tidak wajar, serta outlier.
+
+Khusus untuk penanganan missing value, gunakan minimal statistik deskriptif sebagai dasar dalam menentukan metode penanganan yang sesuai. Sertakan alasan pemilihan metode yang digunakan.
